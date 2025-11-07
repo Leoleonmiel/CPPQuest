@@ -2,49 +2,52 @@
 
 ## À propos / About  
 
-Ce recueil contient des **questions théoriques et pratiques** pour approfondir la compréhension du C++, de la programmation système, du calcul haute performance et des architectures CPU/GPU modernes  
-Les exercices couvrent la mémoire, le parallélisme, les patterns de conception, et les concepts avancés du langage  
+Ce recueil contient des **questions théoriques et pratiques** pour approfondir la compréhension du C++, de la programmation système, du calcul haute performance et des architectures CPU/GPU modernes.  
+Les exercices couvrent la mémoire, le parallélisme, les patterns de conception, et les concepts avancés du langage.  
 
-Il **n’y a pas de réponses** : le but est **d’aller chercher les informations par soi-même**,  de comprendre **pourquoi** et **comment** les concepts fonctionnent,  en utilisant la documentation officielle et les ressources d’entraînement
+Il **n’y a pas de réponses** : le but est **d’aller chercher les informations par soi-même**, de comprendre **pourquoi** et **comment** les concepts fonctionnent, en utilisant la documentation officielle et les ressources d’entraînement.  
 
 ### Ressources principales  
 
 **Documentation officielle :**  
-- https://cppreference.com
+- https://cppreference.com  
 
 **Pour s'entraîner davantage :**  
-- https://cppquiz.org 
-- https://www.hackerrank.com 
-- https://leetcode.com 
-- https://www.codingame.com/home 
+- https://cppquiz.org  
+- https://www.hackerrank.com  
+- https://leetcode.com  
+- https://www.codingame.com/home  
 
 **Articles et ressources approfondies :**  
-- https://www.cppstories.com 
+- https://www.cppstories.com  
 
 ---
 
 # Sommaire des sections / Section Index  
 
-1. [C++ / Langage et compilation (Language and Compilation)](Sections/Langage.md)
-2. [Mathématiques / Matrices / Algèbre linéaire (Mathematics / Matrices / Linear Algebra)](Sections/Math.md)   
-3. [Géométrie et transformations 3D (Geometry and 3D Transformations)](Sections/Geometrie.md) 
+1. [C++ / Langage et compilation (Language and Compilation)](Sections/Langage.md)  
+2. [Mathématiques / Matrices / Algèbre linéaire (Mathematics / Matrices / Linear Algebra)](Sections/Math.md)  
+3. [Géométrie et transformations 3D (Geometry and 3D Transformations)](Sections/Geometrie.md)  
 4. [Calcul numérique et optimisation CPU / GPU (SIMD / SIMT Computation and Optimization)](Sections/OptiCPU.md)  
-5. [Pipeline graphique et rendu 3D avancé (Graphics Pipeline and Advanced 3D Rendering)](Sections/Rendu3D.md) 
-6. [Architecture CPU et microarchitecture (CPU Architecture and Microarchitecture)](Sections/ArchiCPU.md) 
-7. [Architecture GPU (GPU Architecture and Rendering Hardware)](Sections/ArchiGPU.md)   
-8. [Architecture système et interaction CPU–GPU (System Architecture and CPU–GPU Interaction)](Sections/ArchiCPUGPU.md) 
-9. [Architecture mémoire (Memory Architecture)](Sections/ArchiMem.md)   
-10. [Assembleur et architecture bas-niveau (Assembly and Low-Level Architecture)](Sections/Assembler.md) 
+5. [Pipeline graphique et rendu 3D avancé (Graphics Pipeline and Advanced 3D Rendering)](Sections/Rendu3D.md)  
+6. [Architecture CPU et microarchitecture (CPU Architecture and Microarchitecture)](Sections/ArchiCPU.md)  
+7. [Architecture GPU (GPU Architecture and Rendering Hardware)](Sections/ArchiGPU.md)  
+8. [Architecture système et interaction CPU–GPU (System Architecture and CPU–GPU Interaction)](Sections/ArchiCPUGPU.md)  
+9. [Architecture mémoire (Memory Architecture)](Sections/ArchiMem.md)  
+10. [Assembleur et architecture bas-niveau (Assembly and Low-Level Architecture)](Sections/Assembler.md)  
 11. [Assembleur avancé et optimisation bas-niveau (Advanced Assembly and Low-Level Optimization)](Sections/AdvAssembler.md)  
-12. [Lecture, correction et optimisation de code (Code Debugging and Optimization)](Sections/CodeRes.md) 
-13. [Débugage C++ avancé (Advanced C++ Debugging)](Sections/AdvCodeRes.md) 
-14. [C++20 / C++23 : Lecture et compréhension de code moderne (Modern C++ Code Reading)](Sections/ModernCodeRes.md) 
-15. [Design Patterns et architecture logicielle (Software Design Patterns and Architecture)](Sections/Pattern.md) 
-16. [Adressage, pointeurs et références (Addressing, Pointers, and References)](Sections/PtrCodeRes.md)   
-17. [Adressage avancé et bas-niveau (Advanced and Low-Level Addressing)](Sections/AdvPtrCodeRes.md)   
+12. [Lecture, correction et optimisation de code (Code Debugging and Optimization)](Sections/CodeRes.md)  
+13. [Débugage C++ avancé (Advanced C++ Debugging)](Sections/AdvCodeRes.md)  
+14. [C++20 / C++23 : Lecture et compréhension de code moderne (Modern C++ Code Reading)](Sections/ModernCodeRes.md)  
+15. [Design Patterns et architecture logicielle (Software Design Patterns and Architecture)](Sections/Pattern.md)  
+16. [Adressage, pointeurs et références (Addressing, Pointers, and References)](Sections/PtrCodeRes.md)  
+17. [Adressage avancé et bas-niveau (Advanced and Low-Level Addressing)](Sections/AdvPtrCodeRes.md)  
 18. [Gestion mémoire avancée et patterns d’allocation (Advanced Memory Management and Allocation Patterns)](Sections/AdvMemory.md)  
+19. [Exercices assembleur : 60 questions à corriger et optimiser (Assembly Exercises : 60 Debug & Optimization Tasks)](Sections/AsmCodeRes.md)  
 
-## Structure du contenu  
+---
+
+## Structure du contenu détaillée  
 
 1. [C++ / Langage et compilation (Language and Compilation)](Sections/Langage.md)  
    - Syntaxe et concepts fondamentaux / Syntax and Core Concepts  
@@ -184,4 +187,15 @@ Il **n’y a pas de réponses** : le but est **d’aller chercher les informatio
     - Gestion mémoire haute performance / High-Performance Memory Management  
     - Techniques d’allocation dans les moteurs 3D / Allocation Techniques in 3D Engines  
 
+19. [Exercices assembleur : 60 questions à corriger et optimiser (Assembly Exercises - 60 Debug & Optimization Tasks)](Sections/AsmCodeRes.md)   
+    - Correction de routines assembleur / Assembly Routine Debugging  
+    - Analyse de pile et registres / Stack and Register Analysis 
+    - Appels de fonction et ABI / Function Calls and ABI 
+    - Boucles, branchements et flags / Loops, Branching, and Flags  
+    - Arithmétique et logique x86-64 / x86-64 Arithmetic and Logic  
+    - Gestion mémoire et pointeurs / Memory and Pointer Handling
+    - SIMD, SSE, AVX et performance / SIMD, SSE, AVX, and Performance
+    - Optimisation pipeline et alignement / Pipeline Optimization and Alignment
+    - Conventions d’appel et linkage / Calling Conventions and Linkage
+    - Exercices pratiques de débogage et optimisation / Practical Debugging and Optimization Tasks
 ---
