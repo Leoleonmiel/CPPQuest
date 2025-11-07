@@ -1,4 +1,4 @@
-# 19. Assembleur — 60 exercices avec énoncés et sections de code à corriger
+# 19. Assembleur : 60 exercices avec énoncés et sections de code à corriger
 *(Assembly — 60 exercises with statements and partial code to fix)*
 Syntaxe : x86-64, System V ABI, AT&T (GNU as). Cible : Linux.
 Format : Markdown texte (.txt), sans blocs de code, sans réponses.
