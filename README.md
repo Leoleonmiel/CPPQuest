@@ -23,6 +23,27 @@ Il **n’y a pas de réponses** : le but est **d’aller chercher les informatio
 
 ---
 
+# Sommaire des sections / Section Index  
+
+1. [C++ / Langage et compilation (Language and Compilation)](Langage.md)
+2. [Mathématiques / Matrices / Algèbre linéaire (Mathematics / Matrices / Linear Algebra)](Math.md)   
+3. [Géométrie et transformations 3D (Geometry and 3D Transformations)](Geometrie.md) 
+4. [Calcul numérique et optimisation CPU / GPU (SIMD / SIMT Computation and Optimization)](OptiCPU.md)  
+5. [Pipeline graphique et rendu 3D avancé (Graphics Pipeline and Advanced 3D Rendering)](Rendu3D.md) 
+6. [Architecture CPU et microarchitecture (CPU Architecture and Microarchitecture)](ArchiCPU.md) 
+7. [Architecture GPU (GPU Architecture and Rendering Hardware)](ArchiGPU.md)   
+8. [Architecture système et interaction CPU–GPU (System Architecture and CPU–GPU Interaction)](ArchiCPUGPU.md) 
+9. [Architecture mémoire (Memory Architecture)](ArchiMem.md)   
+10. [Assembleur et architecture bas-niveau (Assembly and Low-Level Architecture)](Assembler.md) 
+11. [Assembleur avancé et optimisation bas-niveau (Advanced Assembly and Low-Level Optimization)](AdvAssembler.md)  
+12. [Lecture, correction et optimisation de code (Code Debugging and Optimization)](CodeRes.md) 
+13. [Débugage C++ avancé (Advanced C++ Debugging)](AdvCodeRes.md) 
+14. [C++20 / C++23 — Lecture et compréhension de code moderne (Modern C++ Code Reading)](ModernCodeRes.md) 
+15. [Design Patterns et architecture logicielle (Software Design Patterns and Architecture)](Pattern.md) 
+16. [Adressage, pointeurs et références (Addressing, Pointers, and References)](PtrCodeRes.md)   
+17. [Adressage, pointeurs et références (Addressing, Pointers, and References)](PtrCodeRes.md)   
+18. [Gestion mémoire avancée et patterns d’allocation (Advanced Memory Management and Allocation Patterns)](AdvMemory.md)  
+
 ## Structure du contenu  
 
 1. [C++ / Langage et compilation (Language and Compilation)](Langage.md)  
