@@ -1,4 +1,4 @@
-# 13. Débogage C++ avancé  
+# 13. Debugage C++ avancé  
 *(Advanced C++ Debugging: deadlocks, UB, move, const, constexpr, templates, atomics, linking)*
 
 ## 13.1 Concurrence, verrous, atomiques

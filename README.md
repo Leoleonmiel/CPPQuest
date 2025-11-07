@@ -58,14 +58,14 @@ Il **n’y a pas de réponses** : le but est **d’aller chercher les informatio
    - Techniques avancées de rendu / Advanced Rendering Techniques  
    - Optimisation du rendu / Rendering Optimization  
 
-6. [Architecture CPU et microarchitecture (CPU Architecture and Microarchitecture)](CPU.md)  
+6. [Architecture CPU et microarchitecture (CPU Architecture and Microarchitecture)](ArchiCPU.md)  
    - Organisation interne du processeur / Internal Processor Organization  
    - Pipelines, exécution et branchements / Pipelines, Execution and Branching  
    - Hiérarchie de cache et mémoire / Cache and Memory Hierarchy  
    - Parallélisme, threads et out-of-order / Parallelism and Out-of-Order Execution  
    - Synchronisation et cohérence / Synchronization and Coherency  
 
-7. [Architecture GPU (GPU Architecture and Rendering Hardware)](GPU.md)  
+7. [Architecture GPU (GPU Architecture and Rendering Hardware)](ArchiGPU.md)  
    - Structure et composants du GPU / GPU Structure and Components  
    - Unités de calcul et SIMT / Compute Units and SIMT Execution  
    - Hiérarchie mémoire GPU / GPU Memory Hierarchy  
@@ -73,21 +73,21 @@ Il **n’y a pas de réponses** : le but est **d’aller chercher les informatio
    - Pipeline graphique matériel / Hardware Graphics Pipeline  
    - Ray tracing matériel et accélération / Hardware Ray Tracing and Acceleration  
 
-8. [Architecture système et interaction CPU–GPU (System Architecture and CPU–GPU Interaction)](Systeme.md)  
+8. [Architecture système et interaction CPU–GPU (System Architecture and CPU–GPU Interaction)](ArchiCPUGPU.md)  
    - Interconnexion et communication / Interconnects and Communication  
    - Mémoire partagée et unifiée / Shared and Unified Memory  
    - Synchronisation et cohérence / Synchronization and Coherency  
    - Gestion des ressources et scheduling / Resource Management and Scheduling  
    - Virtualisation et systèmes hétérogènes / Virtualization and Heterogeneous Systems  
 
-9. [Architecture mémoire (Memory Architecture)](Memoire.md)  
+9. [Architecture mémoire (Memory Architecture)](ArchiMem.md)  
    - Structure et hiérarchie / Structure and Hierarchy  
    - Types de mémoire / Memory Types  
    - Performance et bande passante / Performance and Bandwidth  
    - Gestion et allocation / Management and Allocation  
    - Fiabilité et intégrité / Reliability and Integrity  
 
-10. [Assembleur et architecture bas-niveau (Assembly and Low-Level Architecture)](Assembleur.md)  
+10. [Assembleur et architecture bas-niveau (Assembly and Low-Level Architecture)](Assembler.md)  
     - Registres et mémoire / Registers and Memory  
     - Instructions et opérandes / Instructions and Operands  
     - Appels de fonction et pile / Function Calls and Stack  
@@ -111,7 +111,7 @@ Il **n’y a pas de réponses** : le but est **d’aller chercher les informatio
     - Multithreading et synchronisation / Multithreading and Synchronization  
     - Calculs 3D et SIMD / 3D Computation and SIMD  
 
-13. [Débogage C++ avancé (Advanced C++ Debugging)](AdvCodeRes.md)  
+13. [Débugage C++ avancé (Advanced C++ Debugging)](AdvCodeRes.md)  
     - Concurrence, verrous, atomiques / Concurrency, Locks, Atomics  
     - Durée de vie, UB, aliasing / Lifetime, UB, Aliasing  
     - Move, const-correctness, RVO / Move Semantics and RVO  
