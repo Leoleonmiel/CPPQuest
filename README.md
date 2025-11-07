@@ -38,7 +38,7 @@ Il **n’y a pas de réponses** : le but est **d’aller chercher les informatio
 11. [Assembleur avancé et optimisation bas-niveau (Advanced Assembly and Low-Level Optimization)](AdvAssembler.md)  
 12. [Lecture, correction et optimisation de code (Code Debugging and Optimization)](CodeRes.md) 
 13. [Débugage C++ avancé (Advanced C++ Debugging)](AdvCodeRes.md) 
-14. [C++20 / C++23 — Lecture et compréhension de code moderne (Modern C++ Code Reading)](ModernCodeRes.md) 
+14. [C++20 / C++23 : Lecture et compréhension de code moderne (Modern C++ Code Reading)](ModernCodeRes.md) 
 15. [Design Patterns et architecture logicielle (Software Design Patterns and Architecture)](Pattern.md) 
 16. [Adressage, pointeurs et références (Addressing, Pointers, and References)](PtrCodeRes.md)   
 17. [Adressage, pointeurs et références (Addressing, Pointers, and References)](PtrCodeRes.md)   
@@ -141,7 +141,7 @@ Il **n’y a pas de réponses** : le but est **d’aller chercher les informatio
     - Performances et alignement / Performance and Alignment  
     - Métaprogrammation et linkage / Metaprogramming and Linking  
 
-14. [C++20 / C++23 — Lecture et compréhension de code moderne (Modern C++ Code Reading)](ModernCodeRes.md)  
+14. [C++20 / C++23 : Lecture et compréhension de code moderne (Modern C++ Code Reading)](ModernCodeRes.md)  
     - Modules et import/export / Modules and Partitioned Imports  
     - constexpr, consteval, constinit / Compile-Time Evaluation  
     - Ranges et coroutines / Ranges and Coroutines  

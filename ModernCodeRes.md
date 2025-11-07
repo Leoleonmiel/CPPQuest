@@ -1,4 +1,4 @@
-# 14. C++20 / C++23 — Lecture et compréhension de code moderne  
+# 14. C++20 / C++23 : Lecture et compréhension de code moderne  
 
 ## 14.1  
 Quel est le comportement attendu de ce programme utilisant les modules ?
