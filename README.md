@@ -20,6 +20,10 @@ Il **n’y a pas de réponses** : le but est **d’aller chercher les informatio
 
 **Articles et ressources approfondies :**  
 - https://www.cppstories.com  
+- [Effective STL](https://docs.imzlp.com/viewer.html?file=docs/effective/EffectiveSTL.pdf)
+- [C++ STL : Tutorial & References](https://www.cesarkallas.net/arquivos/livros/informatica/cpp/The%20C%2B%2B%20Standard%20Library.pdf)
+- [Generic Programming & STL](https://archive.org/details/genericprogrammi00aust/page/n9/mode/2up)
+- [Modern C++ Cookbook](https://www.asau.ru/files/pdf/2621661.pdf)
 
 ---
 
