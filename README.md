@@ -24,6 +24,12 @@ Il **n’y a pas de réponses** : le but est **d’aller chercher les informatio
 - [C++ STL : Tutorial & References](https://www.cesarkallas.net/arquivos/livros/informatica/cpp/The%20C%2B%2B%20Standard%20Library.pdf)
 - [Generic Programming & STL](https://archive.org/details/genericprogrammi00aust/page/n9/mode/2up)
 - [Modern C++ Cookbook](https://www.asau.ru/files/pdf/2621661.pdf)
+- [Effective Modern C++](https://ananyapam7.github.io/resources/C++/Scott_Meyers_Effective_Modern_C++.pdf)
+- [A Tour of C++ : 3rd Edition (c++ 20) ](https://elhacker.info/manuales/Lenguajes%20de%20Programacion/C++/A%20Tour%20of%20C++%20-%20Bjarne%20Stroustrup%20(Addison-Wesley,%202014)(193p).pdf)
+- [Programming Principles : 2nd Edition (c++20)](https://tiu-edu.uz/media/books/2024/05/29/d9116f36-40ed-4147-86c6-47657eca6c64.pdf)
+- [C++17 The complete Guide](https://iczelia.net/library/C17_-_The_Complete_Guide_by_Nicolai_M._Josuttis.pdf)
+- [C++20 The complete Guide](https://studylib.net/doc/26159634/josuttis-nm-c20-the-complete-guide)
+- [Professionnal C++ (5th Edition)](https://ebooks.karbust.me/Technology/Professional%20C++,%205th%20Edition%20by%20Marc%20Gregoire-Wrox-9781119695400.pdf)
 
 ---
 
