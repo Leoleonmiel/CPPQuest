@@ -19,7 +19,8 @@ Il **n’y a pas de réponses** : le but est **d’aller chercher les informatio
 - https://www.codingame.com/home  
 
 **Articles et ressources approfondies :**  
-- https://www.cppstories.com  
+- [CPP Stories](https://www.cppstories.com)
+- [CPPCon Github](https://github.com/CppCon)
 - [Effective STL](https://docs.imzlp.com/viewer.html?file=docs/effective/EffectiveSTL.pdf)
 - [C++ STL : Tutorial & References](https://www.cesarkallas.net/arquivos/livros/informatica/cpp/The%20C%2B%2B%20Standard%20Library.pdf)
 - [Generic Programming & STL](https://archive.org/details/genericprogrammi00aust/page/n9/mode/2up)
